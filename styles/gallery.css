@@ -44,11 +44,11 @@ section.gallery {
 
 
     &[data-delay] {
-      animation: image-appear 1.2s linear backwards;
+      animation: image-appear 1.1s linear backwards;
     }
 
     &[data-delay2] {
-      animation: image-appear 1.3s linear backwards;
+      animation: image-appear 1.2s linear backwards;
     }
 
     & > img {
